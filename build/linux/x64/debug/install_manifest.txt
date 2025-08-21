@@ -1,0 +1,13 @@
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/drax_ai
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/asad1406/Desktop/Flutterdev/drax_ai/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
